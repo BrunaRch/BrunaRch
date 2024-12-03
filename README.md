@@ -1,6 +1,6 @@
 ## Oii! Eu sou Bruna Rocha 👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Foco em back-end 
 - 🌱 Estou estudando Python atualmente
 
 <div style="display: inline_block"><br>
