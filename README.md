@@ -22,6 +22,7 @@
 </div>
 
 <div>
+  <br>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaRch&Layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
