@@ -19,9 +19,3 @@
 <div> 
   <a href="https://www.linkedin.com/in/bruna-rocha-0a4353241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<div>
-  <br>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaRch&Layout=compact&langs_count=16&theme=cobalt"/>
-</div>
-
