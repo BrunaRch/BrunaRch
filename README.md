@@ -1,6 +1,6 @@
 ## Oii! Eu sou Bruna Rocha 👋
 
-🎓 Estudante de **Ciência da Computação** <br>
+<!--🎓 Estudante de **Ciência da Computação** <br>-->
 🔭 Com foco em desenvolvimento back-end <br>
 🌱 Atualmente aprofundando conhecimentos em Python <br>
 💼 Tenho experiência prática em projetos pessoais, e agora busco minha primeira oportunidade de trabalho em TI <br>
