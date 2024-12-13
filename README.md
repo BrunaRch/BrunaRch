@@ -1,7 +1,10 @@
 ## Oii! Eu sou Bruna Rocha 👋
 
-- 🔭 Foco em back-end 
-- 🌱 Estou estudando Python atualmente
+🎓 Estudante de **Ciência da Computação** <br>
+🔭 Com foco em desenvolvimento back-end <br>
+🌱 Atualmente aprofundando conhecimentos em Python <br>
+📍 Localizado em Salvador, Bahia <br>
+💼 Tenho experiência prática em projetos pessoais, e agora busco minha primeira oportunidade de trabalho em TI.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
