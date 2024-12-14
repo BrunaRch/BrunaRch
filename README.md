@@ -4,6 +4,7 @@
 🔭 Com foco em desenvolvimento back-end <br>
 🌱 Atualmente aprofundando conhecimentos em Python <br>
 💼 Tenho experiência prática em projetos pessoais, e agora busco minha primeira oportunidade de trabalho em TI <br>
+🌐 [Acesse meu portfólio aqui!](https://BrunaRch.github.io)
 📍 Localizado em Salvador, Bahia
 
 <div style="display: inline_block"><br>
