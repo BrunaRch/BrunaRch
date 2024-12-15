@@ -1,12 +1,17 @@
 ## Oii! Eu sou Bruna Rocha 👋
 
-<!--🎓 Estudante de **Ciência da Computação** <br>-->
-🔭 Com foco em desenvolvimento back-end <br>
-🌱 Atualmente aprofundando conhecimentos em Python <br>
+
+<!--🎓 Estudante de **Ciência da Computação** um dia <br>-->
+🔭 Tenho foco em desenvolvimento back-end <br>
+🌱 Atualmente aprofundando meus conhecimentos em Python <br>
 💼 Tenho experiência prática em projetos pessoais, e agora busco minha primeira oportunidade de trabalho em TI <br>
 🌐 [Acesse meu portfólio aqui!](https://BrunaRch.github.io) <br>
 📍 Localizado em Salvador, Bahia
 
+🎯 Meta: Ter a oportunidade de cursar ciência da computação ou engenharia de software
+
+<h2 align="left">Ferramentas que utilizo:</h2>
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,8 +22,10 @@
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaRch&layout=compact&bg_color=1e1e1e&title_color=4db8ff&text_color=ffffff&icon_color=79ff97)
-
+<div align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=BrunaRch&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> <br> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunaRch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 
