@@ -8,10 +8,6 @@
 🌐 [Acesse meu portfólio aqui!](https://BrunaRch.github.io) <br>
 📍 Localizado em Salvador, Bahia
 
-<br>
-
-## 🌟 Projetos Principais
-
 
 <h2 align="left">Ferramentas que utilizo:</h2>
 <br>
