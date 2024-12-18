@@ -8,7 +8,6 @@
 🌐 [Acesse meu portfólio aqui!](https://BrunaRch.github.io) <br>
 📍 Localizado em Salvador, Bahia
 
-🎯 Meta: Ter a oportunidade de cursar ciência da computação ou engenharia de software
 
 <h2 align="left">Ferramentas que utilizo:</h2>
 <br>
