@@ -6,7 +6,7 @@
 🌱 Atualmente aprofundando meus conhecimentos em Python <br>
 💼 Tenho experiência prática em projetos pessoais, e agora busco minha primeira oportunidade de trabalho em TI <br>
 🌐 [Acesse meu portfólio aqui!](https://BrunaRch.github.io) <br>
-📍 Localizado em Salvador, Bahia
+📍 Salvador, Bahia
 
 
 <h2 align="left">Ferramentas que utilizo:</h2>
