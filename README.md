@@ -3,8 +3,7 @@
 
 <!--🎓 Estudante de **Ciência da Computação** um dia <br>-->
 🔭 Tenho foco em desenvolvimento back-end <br>
-🌱 Atualmente aprofundando meus conhecimentos em Python <br>
-💼 Tenho experiência prática em projetos pessoais, e agora busco minha primeira oportunidade de trabalho em TI <br>
+🌱 Atualmente aprofundando meus conhecimentos em Python e Java <br>
 🌐 [Acesse meu portfólio aqui!](https://BrunaRch.github.io) <br>
 📍 Salvador, Bahia
 
