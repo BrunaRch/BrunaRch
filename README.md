@@ -1,4 +1,4 @@
-## Oii! Eu sou Bruna Rocha 👋
+## Bruna Rocha 👋
 
 
 <!--🎓 Estudante de **Ciência da Computação** um dia <br>-->
